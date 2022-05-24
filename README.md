@@ -13,7 +13,6 @@ sudo systemctl status docker
 sudo usermod -aG docker $USER
 >>>logout/login<<<
 ```
-```
 
 2) Dockerfile:
 ```
