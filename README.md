@@ -41,10 +41,9 @@ Docker — это платформа, которая предназначена 
 docker pull ghost 
 docker run -d --name some-ghost ghost
 docker run -d --name some-ghost -e url=http://localhost:3001 -p 3001:2368 ghost
+```
 ![image](https://user-images.githubusercontent.com/46539072/170060715-91099367-2645-42fd-972b-59d2cb1c6499.png)
 
-
-```
 ## Основные команды для управления контейнерами
 
 ```
